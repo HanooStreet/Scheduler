@@ -1,0 +1,9 @@
+num cities
+	city name
+	num teams in city
+		team name
+		repeat line 4 for the number in line 3
+	num stadiums in city
+		stadium name
+		repeat line 6 for the number in line 5
+	repeat lines 2-8 for the number in line 1
